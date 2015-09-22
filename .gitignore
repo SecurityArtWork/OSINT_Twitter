@@ -1,0 +1,8 @@
+*.sublime*
+*.DS_Store
+._.*
+*.swp
+*.swo
+*.*~
+~*.*
+conf.*
